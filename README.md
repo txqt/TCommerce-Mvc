@@ -1,4 +1,18 @@
 
+# TCommerce
+
+- Dự án thương mại điện tử sử dụng ASP.NET Core MVC và ASP.NET Core Web API.
+
+
+## Tổng quan
+- Dự án này là một ứng dụng thương mại điện tử nhỏ của một sinh viên mới ra trường (tôi) được xây dựng để nâng cao kỹ năng lập trình.
+## Yêu Cầu
+
+- [ASP.NET Core 7](https://dotnet.microsoft.com/download/dotnet/7.0)
+- [Visual Studio 2019 hoặc 2022](https://visualstudio.microsoft.com/vs/)
+- [Microsoft SQL Server 2019 hoặc 2022](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
+
 ## Hướng dẫn cài đặt
 1. Clone dự án từ GitHub:
 
