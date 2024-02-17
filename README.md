@@ -9,7 +9,7 @@
 - Hầu hết mọi ý tưởng dự án của tôi đều dựa vào [nopCommerce](https://github.com/nopSolutions/nopCommerce) để làm.
 ## Yêu Cầu
 
-- [ASP.NET Core 7](https://dotnet.microsoft.com/download/dotnet/7.0)
+- [ASP.NET Core 7](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [Visual Studio 2019 hoặc 2022](https://visualstudio.microsoft.com/vs/)
 - [Microsoft SQL Server 2019 hoặc 2022](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
